@@ -37,3 +37,8 @@
 
 # Unit-Test-in-Python
 Unit Test Project in Python with pytest
+
+## Requirements
+Install requirements with next terminal command:
+`pip install -r requirements.txt`
+
